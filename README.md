@@ -1,7 +1,8 @@
 Suspension-Rates-by-Gender
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/suspension-rates-by-gender.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/suspension-rates-by-gender)
-Suspension Rate reports the percentage of students who have recieved at least one sanction (ISS, OSS, EXP) during a school year, per subgroup.
+Suspension Rate reports the percentage of students who have recieved at least one sanction (ISS, OSS, EXP) during a school year, per gender.
+
+Data Source: <http://edsight.ct.gov/SASPortal/main.do>
 
 ## License MIT
 
